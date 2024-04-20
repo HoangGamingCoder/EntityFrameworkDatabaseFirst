@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LTCs\\EntityFramework\\DatabaseFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE35E3D2-6966-41A1-AE11-0849D4FAA0BF}|DatabaseFirst\\DatabaseFirst.csproj|d:\\ltcs\\entityframework\\databasefirst\\databasefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE35E3D2-6966-41A1-AE11-0849D4FAA0BF}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:databasefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE35E3D2-6966-41A1-AE11-0849D4FAA0BF}|DatabaseFirst\\DatabaseFirst.csproj|d:\\ltcs\\entityframework\\databasefirst\\databasefirst\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE35E3D2-6966-41A1-AE11-0849D4FAA0BF}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:databasefirst\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE35E3D2-6966-41A1-AE11-0849D4FAA0BF}|DatabaseFirst\\DatabaseFirst.csproj|d:\\ltcs\\entityframework\\databasefirst\\databasefirst\\models\\khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE35E3D2-6966-41A1-AE11-0849D4FAA0BF}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:databasefirst\\models\\khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE35E3D2-6966-41A1-AE11-0849D4FAA0BF}|DatabaseFirst\\DatabaseFirst.csproj|d:\\ltcs\\entityframework\\databasefirst\\databasefirst\\models\\lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE35E3D2-6966-41A1-AE11-0849D4FAA0BF}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:databasefirst\\models\\lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE35E3D2-6966-41A1-AE11-0849D4FAA0BF}|DatabaseFirst\\DatabaseFirst.csproj|d:\\ltcs\\entityframework\\databasefirst\\databasefirst\\models\\quanlysinhviencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE35E3D2-6966-41A1-AE11-0849D4FAA0BF}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:databasefirst\\models\\quanlysinhviencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "D:\\LTCs\\EntityFramework\\DatabaseFirst\\DatabaseFirst\\Models\\SinhVien.cs",
+              "RelativeDocumentMoniker": "DatabaseFirst\\Models\\SinhVien.cs",
+              "ToolTip": "D:\\LTCs\\EntityFramework\\DatabaseFirst\\DatabaseFirst\\Models\\SinhVien.cs",
+              "RelativeToolTip": "DatabaseFirst\\Models\\SinhVien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T18:39:34.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lop.cs",
+              "DocumentMoniker": "D:\\LTCs\\EntityFramework\\DatabaseFirst\\DatabaseFirst\\Models\\Lop.cs",
+              "RelativeDocumentMoniker": "DatabaseFirst\\Models\\Lop.cs",
+              "ToolTip": "D:\\LTCs\\EntityFramework\\DatabaseFirst\\DatabaseFirst\\Models\\Lop.cs",
+              "RelativeToolTip": "DatabaseFirst\\Models\\Lop.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T18:39:21.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Khoa.cs",
+              "DocumentMoniker": "D:\\LTCs\\EntityFramework\\DatabaseFirst\\DatabaseFirst\\Models\\Khoa.cs",
+              "RelativeDocumentMoniker": "DatabaseFirst\\Models\\Khoa.cs",
+              "ToolTip": "D:\\LTCs\\EntityFramework\\DatabaseFirst\\DatabaseFirst\\Models\\Khoa.cs",
+              "RelativeToolTip": "DatabaseFirst\\Models\\Khoa.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T18:39:16.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuanLySinhVienContext.cs",
+              "DocumentMoniker": "D:\\LTCs\\EntityFramework\\DatabaseFirst\\DatabaseFirst\\Models\\QuanLySinhVienContext.cs",
+              "RelativeDocumentMoniker": "DatabaseFirst\\Models\\QuanLySinhVienContext.cs",
+              "ToolTip": "D:\\LTCs\\EntityFramework\\DatabaseFirst\\DatabaseFirst\\Models\\QuanLySinhVienContext.cs",
+              "RelativeToolTip": "DatabaseFirst\\Models\\QuanLySinhVienContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T18:39:03.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LTCs\\EntityFramework\\DatabaseFirst\\DatabaseFirst\\Program.cs",
+              "RelativeDocumentMoniker": "DatabaseFirst\\Program.cs",
+              "ToolTip": "D:\\LTCs\\EntityFramework\\DatabaseFirst\\DatabaseFirst\\Program.cs",
+              "RelativeToolTip": "DatabaseFirst\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAUwBQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T18:16:47.754Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
